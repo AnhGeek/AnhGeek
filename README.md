@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Hoang Anh but if you want to know my English name, it's Steve.I'm Embedded Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/939/939633.png" alt="Vietnam" title="Vietnam" width="32" height="32"> <b>Viet Nam</b>, currently living in <b>Ho Chi Minh City</b>. </p>
+<p>Welcome to my page! </br> I'm Hoang Anh but if you want to know my English name, I'm Steve. I'm Embedded Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/939/939633.png" alt="Vietnam" title="Vietnam" width="32" height="32"> <b>Viet Nam</b>, currently living in <b>Ho Chi Minh City</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
