@@ -33,6 +33,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/anhbe58/LichVanNien?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anhbe58/LichVanNien?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/AnhGeek/ota_esp8266"><b>ota_esp8266</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/AnhGeek/ota_esp8266?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/AnhGeek/ota_esp8266?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/AnhGeek/ota_esp8266?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AnhGeek/ota_esp8266?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 <h3>My latest posts</h3>
