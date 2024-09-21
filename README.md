@@ -40,6 +40,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/AnhGeek/ota_esp8266?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AnhGeek/ota_esp8266?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/AnhGeek/timer_3digits"><b>timer_3digits</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/AnhGeek/timer_3digits?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/AnhGeek/timer_3digits?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/AnhGeek/timer_3digits?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AnhGeek/timer_3digits?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 <h3>My latest posts</h3>
