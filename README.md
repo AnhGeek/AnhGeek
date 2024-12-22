@@ -54,6 +54,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/AnhGeek/USB_Relay_HID?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AnhGeek/USB_Relay_HID?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/AnhGeek/USB_HUB_Power_Controlled"><b>USB_Relay_HID</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/AnhGeek/USB_HUB_Power_Controlled?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/AnhGeek/USB_HUB_Power_Controlled?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/AnhGeek/USB_HUB_Power_Controlled?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AnhGeek/USB_HUB_Power_Controlled?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 <h3>My latest posts</h3>
