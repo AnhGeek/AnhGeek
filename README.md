@@ -65,5 +65,5 @@
 </table>
 <h3>My latest posts</h3>
 <ul id="lates-post">
-  <li><a href=""><b><img src="https://img.shields.io/badge/Comming_Soon-green" alt="new" /> Comming soon...</b></a><br/><i>I'm building my blog.</i></li>
+  <li><a href="https://www.lyhoanganh.site/blog-embedded/usb-relay-ch551"><b><img src="https://img.shields.io/badge/New-green" alt="new" /> I invented a relay board with USB interface again</b></a></li>
 </ul>
